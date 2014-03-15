@@ -1,0 +1,10 @@
+# Detect all text files automatically and normalize them (default)
+*               text=auto
+
+# These files are text and should be normalized
+*.html          text
+*.css           text
+package-list    text
+
+# These files are binary and should be left untouched
+*.gif           binary

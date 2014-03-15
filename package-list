@@ -1,0 +1,17 @@
+com.miviclin.droidengine2d
+com.miviclin.droidengine2d.audio
+com.miviclin.droidengine2d.gamestate
+com.miviclin.droidengine2d.graphics
+com.miviclin.droidengine2d.graphics.animation
+com.miviclin.droidengine2d.graphics.cameras
+com.miviclin.droidengine2d.graphics.material
+com.miviclin.droidengine2d.graphics.mesh
+com.miviclin.droidengine2d.graphics.shader
+com.miviclin.droidengine2d.graphics.text
+com.miviclin.droidengine2d.graphics.texture
+com.miviclin.droidengine2d.input
+com.miviclin.droidengine2d.input.sensor
+com.miviclin.droidengine2d.resources
+com.miviclin.droidengine2d.util
+com.miviclin.droidengine2d.util.math
+com.miviclin.droidengine2d.util.time
